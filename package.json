@@ -1,0 +1,9 @@
+{
+  "name": "p-memo",
+  "version": "0.0.2",
+  "description": "Did you mean p-memoize?",
+  "keywords": [],
+  "scripts": {
+    "preinstall": "echo 'Did you mean p-memoize?' && exit 1"
+  }
+}
